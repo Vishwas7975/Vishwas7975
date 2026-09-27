@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer | Data Analyst</h3>
 
 <p align="center">
-Building web applications, automating workflows, and transforming data into actionable insights.
+Building web applications, automating workflows and transforming data into actionable insights.
 </p>
 
 <p align="center">
@@ -22,13 +22,13 @@ Building web applications, automating workflows, and transforming data into acti
 
 ## 👨‍💻 About Me
 
-I'm a developer with experience building web applications, automating business workflows, and working with data.
+I'm a developer with experience building web applications, automating business workflows and working with data.
 
 My interests span full-stack development and data analytics, from developing backend services and database-driven applications to analyzing data and building dashboards.
 
-- 💻 **Development:** Java, Spring Boot, PHP, Laravel, React, REST APIs, and MySQL
-- 📊 **Analytics:** Python, SQL, Excel, Power BI, data cleaning, ETL, and visualization
-- 🤝 **Open to:** Freelance projects, collaborations, and opportunities in software development and data analytics
+- 💻 **Development:** Java, Spring Boot, PHP, Laravel, React, REST APIs and MySQL
+- 📊 **Analytics:** Python, SQL, Excel, Power BI, data cleaning, ETL and visualization
+- 🤝 **Open to:** Freelance projects, collaborations and opportunities in software development and data analytics
 
 ---
 
@@ -54,7 +54,7 @@ My interests span full-stack development and data analytics, from developing bac
 
 📍 Bengaluru, India | June 2025 – August 2026
 
-Worked on web applications, automation systems, and data-driven reporting, including:
+Worked on web applications, automation systems and data-driven reporting, including:
 
 - Learning Management System (LMS) portal
 - Attendance and payroll automation
